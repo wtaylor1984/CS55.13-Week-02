@@ -51,7 +51,7 @@
                 (item,index) => (
                   //const employementStatusText = {(item.isEmployed) ? "" : "not"};
                   <li key={index}>
-                    <p>{item.name} is a {item.skill} developer.</p>
+                    <p>{item.name} is {item.isEmployed === true ? 'employed as' : ''} a {item.skill} developer.</p>
                   </li>
                 )
               )
