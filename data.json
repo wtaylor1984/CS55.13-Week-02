@@ -1,18 +1,42 @@
 [
     {
-        "firstname":"Fred",
-        "link":"https://www.santarosa.edu"
+      "name": "Alice Johnson",
+      "age": 28,
+      "email": "alice.johnson@example.com",
+      "street": "456 Oak St",
+      "city": "Springfield",
+      "state": "IL",
+      "postalCode": "62704",
+      "phoneType": "home",
+      "phoneNumber": "555-123-4567",
+      "isEmployed": true,
+      "skill": "JavaScript"
     },
     {
-        "firstname":"Jane",
-        "link":"https://www.apple.com"
+      "name": "Bob Smith",
+      "age": 35,
+      "email": "bob.smith@example.com",
+      "street": "789 Pine Ave",
+      "city": "Lincoln",
+      "state": "NE",
+      "postalCode": "68521",
+      "phoneType": "work",
+      "phoneNumber": "555-987-6543",
+      "isEmployed": false,
+      "skill": "Python"
     },
     {
-        "firstname":"Mary",
-        "link":"https://www.w3schools.com"
-    },
-    {
-        "firstname":"MDN Sammy",
-        "link":"https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers"
+      "name": "Charlie Brown",
+      "age": 42,
+      "email": "charlie.brown@example.com",
+      "street": "101 Maple Blvd",
+      "city": "Columbus",
+      "state": "OH",
+      "postalCode": "43215",
+      "phoneType": "mobile",
+      "phoneNumber": "555-654-3210",
+      "isEmployed": true,
+      "skill": "SQL"
     }
-]
+  ]
+  
